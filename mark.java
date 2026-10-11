@@ -3,9 +3,9 @@ public class Main {
     public static void main(String[] args) {
 
         String name = "Harini";
-        int python = 85;
-        int sql = 90;
-        int machineLearning = 80;
+        int python = 15;
+        int sql = 20;
+        int machineLearning = 10;
 
         int total = python + sql + machineLearning;
         double average = total / 3.0;
